@@ -6,8 +6,8 @@
 
 body {
     font-family: system-ui, -apple-system, sans-serif;
-    background-color: #99EEFF
-    color: #111827
+    background-color: #99EEFF;
+    color: #111827;
     line-height: 1.6;
 }
 
@@ -38,7 +38,7 @@ body {
     max-width: 760px;
 }
 
-.profile-card
+.profile-card,
 .section-card {
     background-color: #ffffff;
     border-radius: 16px;
@@ -151,5 +151,6 @@ body {
     }
 
 }
+
 
 
