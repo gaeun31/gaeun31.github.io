@@ -20,7 +20,7 @@ body {
 }
 .header {
     text-align: center;
-    margin: 24px;
+    margin: 24px auto;
 }
 
 .header h1 {
@@ -152,6 +152,7 @@ body {
     }
 
 }
+
 
 
 
